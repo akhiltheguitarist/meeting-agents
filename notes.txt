@@ -1,0 +1,11 @@
+Weekly sync, Monday.
+Priya fixed the login bug in staging and it needs QA.
+Ravi owns QA and will finish it by Friday.
+Meera owns the API docs update.
+The dashboard redesign is postponed to next sprint.
+Next sync is on Monday at 10am.
+Shyam is looking into configuration on jenkins. We need login to be fixed.
+It is a large work and would finish in three weeks. 
+It might be a blocker if we don't have enough resource.
+The latest build is not deployed, which will be taken care by A team.
+they are short of resources, so there could be delays.
